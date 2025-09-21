@@ -3,8 +3,8 @@ My main programming languages are SQL, Java, JavaScript, and a bit of Python.
 I also enjoy hardware troubleshooting, robotics projects, and building websites.
 
 Some of my recent work includes:
-- **Learning Management System (LMS)** – My thesis project
-- **Inventory Management System (IMS)**
+- **Web Development**
+- **Mobile Development**
 - **ESP32-based IoT Projects**
 
 I’m always eager to explore new tools and approaches. 
