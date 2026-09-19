@@ -1,5 +1,5 @@
 Hi, I'm Jayson Flores Mancol—a humble and curious developer-in-training with a passion for technology and learning. 
-My main programming languages are React.js, Node.js, Express.js,Tailwind.css, JavaScript, Java, Kotlin, SQL and a bit of Python. 
+My main programming languages are React.js, Node.js, Express.js,Tailwind.css, JavaScript, Java, Python, Kotlin and SQL . 
 I also enjoy hardware troubleshooting, robotics projects, and building websites.
 
 Some of my recent work includes:
