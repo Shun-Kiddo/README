@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Jayson Flores Mancol 👋</h1>
-<h3 align="center">A humble and curious developer-in-training with a passion for technology, hardware, and continuous learning.</h3>
+<h3 align="center">Aspiring Software Developer | Developer-in-Training with a passion for technology, hardware, and continuous learning.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Aspiring%20Software%20Developer-orange?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Developing%20Software-orange?style=flat-square" alt="Focus">
 </p>
 
 ---
