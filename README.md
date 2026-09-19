@@ -1,41 +1,39 @@
-<h1 align="center">Hello There 😄</h1>
+<h1 align="center">Hi there, I'm Jayson Flores Mancol 👋</h1>
+<h3 align="center">A humble and curious developer-in-training with a passion for technology, hardware, and continuous learning.</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=520&lines=Full-stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;UI%2FUX+%26+Branding+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20IoT-orange?style=flat-square" alt="Focus">
 </p>
 
-<!--STATS_START-->
-<!--STATS_END-->
+---
 
-<br/>
+### Modern Tech Stack & Tools
+I use these modern frameworks, tools, and databases to build and scale robust web applications:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProGamingZ/ProGamingZ/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProGamingZ/ProGamingZ/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ProGamingZ/ProGamingZ/output/github-snake.svg" />
-</picture>
+* **Frontend & UI:** `React`, `Next.js`, `Tailwind CSS`, `Vite`
+* **Databases:** `PostgreSQL`, `MySQL`
+* **Cloud & Infrastructure:** `AWS`
+* **Core Languages:** `JavaScript`, `Java`, `Python`, `Kotlin`, `SQL`
 
-<br/>
+---
 
-<details>
-<summary><b>🛠 Tech stack</b> (click to expand)</summary>
-<br/>
+### 🛠️ What I Do
+* **Web Development:** Building responsive, performant, and dynamic web apps.
+* **Mobile Development:** Creating cross-platform mobile experiences.
+* **ESP32-based IoT Projects:** Merging hardware with software for smart, real-world solutions.
+* **Graphic Design:** Crafting visual assets and clean UI/UX components.
+* **Hardware Troubleshooting & Robotics:** Tinkering with physical systems to see how things work under the hood.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-</details>
+### Beyond the Code
+When I'm not writing code or building IoT prototypes, you can find me:
+* Riding and exploring on **motorcycles**.
+* Taking things apart and figuring out how they work.
 
-<details>
-<summary><b>📫 Contact</b> (click to expand)</summary>
-<br/>
+---
 
-- GitHub: [@ProGamingZ](https://github.com/ProGamingZ)
-
-</details>
+<p align="center">
+  <em>"Always eager to explore new tools and approaches."</em>
+</p>
