@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20IoT-orange?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Aspiring%20Software%20Developer-orange?style=flat-square" alt="Focus">
 </p>
 
 ---
@@ -12,8 +12,7 @@
 I use these modern frameworks, tools, and databases to build and scale robust web applications:
 
 * **Frontend & UI:** `React`, `Next.js`, `Tailwind CSS`, `Vite`
-* **Databases:** `PostgreSQL`, `MySQL`
-* **Cloud & Infrastructure:** `AWS`
+* **Databases & Backends:** `Supabase`, `Firebase`, `Neon`, `Aiven`
 * **Core Languages:** `JavaScript`, `Java`, `Python`, `Kotlin`, `SQL`
 
 ---
@@ -24,13 +23,6 @@ I use these modern frameworks, tools, and databases to build and scale robust we
 * **ESP32-based IoT Projects:** Merging hardware with software for smart, real-world solutions.
 * **Graphic Design:** Crafting visual assets and clean UI/UX components.
 * **Hardware Troubleshooting & Robotics:** Tinkering with physical systems to see how things work under the hood.
-
----
-
-### Beyond the Code
-When I'm not writing code or building IoT prototypes, you can find me:
-* Riding and exploring on **motorcycles**.
-* Taking things apart and figuring out how they work.
 
 ---
 
