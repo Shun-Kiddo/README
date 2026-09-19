@@ -1,30 +1,12 @@
-### Hello There 😄
+Hi, I'm Jayson Flores Mancol—a humble and curious developer-in-training with a passion for technology and learning. 
+My main programming languages are React.js, Node.js, Express.js,Tailwind.css, JavaScript, Java, Python, Kotlin and SQL . 
+I also enjoy hardware troubleshooting, robotics projects, and building websites.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>GitHub Activity</h3>
-      <table>
-        <tr><td>Total Contributions</td><td>--</td></tr>
-        <tr><td>Total Commits</td><td>--</td></tr>
-        <tr><td>Total Pull Requests</td><td>--</td></tr>
-        <tr><td>Total Issues</td><td>--</td></tr>
-        <tr><td>Total Stars</td><td>--</td></tr>
-      </table>
-    </td>
-    <td width="50%">
-      <h3>Streaks & Languages</h3>
-      <table>
-        <tr><td>Current Streak</td><td>--</td></tr>
-        <tr><td>Longest Streak</td><td>--</td></tr>
-        <tr><td>Spoken Languages</td><td>English, Filipino</td></tr>
-        <tr><td>Programming Languages</td><td>C#, TypeScript, PHP, JavaScript, CSS, Python, Hack, HTML</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+Some of my recent work includes:
+- **Web Development**
+- **Mobile Development**
+- **ESP32-based IoT Projects**
+- **Graphic Design**
 
-### Contribution View
-
-<!-- You can replace this with an isometric/pixel contribution graph action like Lowlighter Metrics -->
-![Isometric Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark)
+I’m always eager to explore new tools and approaches. 
+Outside of tech, I love motorcycles and enjoy discovering how things work.
