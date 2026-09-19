@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jayson Flores Mancol 👋</h1>
+<h1 align="center">Hi👋, I'm Jayson Flores Mancol</h1>
 <h3 align="center">Aspiring Software Developer | Developer-in-Training with a passion for technology, hardware, and continuous learning.</h3>
 
 <p align="center">
